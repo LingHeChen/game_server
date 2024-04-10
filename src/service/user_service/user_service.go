@@ -3,7 +3,7 @@ package user_service
 import (
 	"bytes"
 	"game_server/src/model"
-	"class1/src/utils/encode_uitls"
+	"game_server/src/utils/encode_uitls"
 	"class1/src/utils/mongo_utils"
 	"errors"
 )

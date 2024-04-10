@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"class1/src/frame"
-	"class1/src/utils/session_utils"
+	"game_server/src/frame"
+	"game_server/src/utils/session_utils"
 	"log"
 	"net/http"
 )

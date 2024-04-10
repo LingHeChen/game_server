@@ -1,7 +1,7 @@
 package game_proto
 
 import (
-	"class1/src/model"
+	"game_server/src/model"
 )
 
 const (

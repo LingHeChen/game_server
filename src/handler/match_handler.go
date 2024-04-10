@@ -1,6 +1,6 @@
 package handler
 
-import "class1/src/frame"
+import "game_server/src/frame"
 
 
 var MatchRouter *frame.RouterGroup

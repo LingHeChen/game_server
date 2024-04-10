@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"class1/src/frame"
-	"class1/src/utils/net_utils"
+	"game_server/src/frame"
+	"game_server/src/utils/net_utils"
 	"fmt"
 	"log"
 	"net/http"
