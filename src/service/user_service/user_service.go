@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"game_server/src/model"
 	"game_server/src/utils/encode_uitls"
-	"class1/src/utils/mongo_utils"
+	"game_server/src/utils/mongo_utils"
 	"errors"
 )
 
